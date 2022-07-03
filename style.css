@@ -45,7 +45,7 @@ h1{
     padding-top: 3%;
 
 }
-.h-content p{
+p{
     margin-top: 2%;
     padding-right: 10%;
     font-size: 1.2em;
@@ -60,3 +60,29 @@ h1{
     font-weight: 700;
 }
 
+h2{
+    font-size: 50px;
+}
+.e-t-t{
+    text-align: center;
+}
+.e-halft {
+    align-items: center;
+    display: flex;
+    
+    
+    
+}
+
+.content{
+    height: 350px;
+    width: 50%;
+    padding: 2%;
+    margin: 1% 5% 0 5% ;
+    box-shadow: 0px 0px 10px red ;
+}
+.footer{
+    
+    text-align: center;
+    color: black;
+}
